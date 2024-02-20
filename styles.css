@@ -93,3 +93,13 @@
             background-color: #E9B824;
          }
 }
+@media all and (max-width: 600px) {
+
+    * {
+        background-color: #9AD0C2;
+    }
+    .main-section {
+        flex-direction: column;
+        background-color: #EE9322;
+    }
+}
