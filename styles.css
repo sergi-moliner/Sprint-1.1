@@ -82,3 +82,14 @@
         .footer-navigation {
             background-color: #D9534F;
         }
+
+@media all and (max-width: 800px){
+
+    *{
+            background-color: #F1FADA;
+        }
+        .main-section {
+            flex-direction: column;
+            background-color: #E9B824;
+         }
+}
